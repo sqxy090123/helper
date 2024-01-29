@@ -14,15 +14,14 @@ This module is
 
 
 
-<div>
   [copywrite(github)](https://github.com/sqxy090123)
-</div>
-<div>
+
+
   [copyright(bilibili)](https://space.bilibili.com/1801234807)
-</div>
-<div>
+
+
   [copyright(pypi)](https://pypi.org/user/sqxy090123)
-</div>
-<div>
+
+
   [copyright(mail)](mailto:sqx20150423@outlook.com)
-</div>
+

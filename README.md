@@ -14,7 +14,15 @@ This module is
 
 
 
-[copywrite(github)](https://github.com/sqxy090123)
-[copyright(bilibili)](https://space.bilibili.com/1801234807)
-[copyright(pypi)](https://pypi.org/usr/sqxy090123)
-[copyright(mail)](mailto:sqx20150423@outlook.com)
+<div>
+  [copywrite(github)](https://github.com/sqxy090123)
+</div>
+<div>
+  [copyright(bilibili)](https://space.bilibili.com/1801234807)
+</div>
+<div>
+  [copyright(pypi)](https://pypi.org/user/sqxy090123)
+</div>
+<div>
+  [copyright(mail)](mailto:sqx20150423@outlook.com)
+</div>

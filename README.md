@@ -14,7 +14,7 @@ This module is
 
 
 
-  [copywrite(github)](https://github.com/sqxy090123)
+  [copyright(github)](https://github.com/sqxy090123)
 
 
   [copyright(bilibili)](https://space.bilibili.com/1801234807)
